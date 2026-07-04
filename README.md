@@ -1,6 +1,6 @@
 # SQL Business Analytics Bootcamp
 
-## 📌 Overview
+##  Overview
 
 This repository demonstrates my SQL learning journey and hands-on practice in Business Analytics using MySQL.
 
@@ -8,14 +8,14 @@ The project covers database creation, data insertion, SQL querying, aggregation,
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - MySQL
 - MySQL Workbench
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Database Creation
 - Table Creation
@@ -34,7 +34,7 @@ The project covers database creation, data insertion, SQL querying, aggregation,
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 schema.sql
 
@@ -54,7 +54,7 @@ Demonstrates INNER JOIN, LEFT JOIN and RIGHT JOIN.
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - SQL Fundamentals
 - Relational Databases
@@ -65,7 +65,7 @@ Demonstrates INNER JOIN, LEFT JOIN and RIGHT JOIN.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Subqueries
 - CASE Statements
